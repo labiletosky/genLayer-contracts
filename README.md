@@ -13,4 +13,4 @@ Custom AI-powered smart contracts built on GenLayer testnet.
 - gl.eq_principle.prompt_comparative
 
 ## Builder
-@labiletooky0
+@labiletosky
